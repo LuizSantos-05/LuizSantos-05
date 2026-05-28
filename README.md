@@ -78,7 +78,7 @@ Experiments and projects involving C/C++, memory management, algorithms, and low
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luiz-maniero/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizsantoscvl@hotmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizalexandrecvl@gmail.com)
 
 ---
 
