@@ -1,7 +1,7 @@
 # Hello There, I'm Luiz
 
 🎓 Computer Science Student
-💻 Developer focused on C, C++, Java, Linux, Linux and Web Development
+💻 Developer focused on C, C++, Java, Linux and Web Development
 🐧 Fedora Linux user
 
 ---
